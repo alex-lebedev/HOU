@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1539377607635.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2805065473",
+    "id" : "697F885F",
+    "lastKnownWriteTime" : 1539426595,
+    "last_content_update" : 1539426595326,
+    "path" : "~/GitHub/HOU/HOU_2_drugs_and_sch.R",
+    "project_path" : "HOU_2_drugs_and_sch.R",
+    "properties" : {
+        "cursorPosition" : "42,45",
+        "scrollLine" : "17",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
